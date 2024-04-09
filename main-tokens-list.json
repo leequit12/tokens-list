@@ -56,6 +56,14 @@
       "symbol": "SQT",
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/QmWrmZmZF2T9kbeDndNSehSEpe8Kdh7DpPU4J8KHX4UoQD"
+       },
+     { "chainId": 42,
+      "address": "0x310046e0B9661D5B3310b0D9B4f6d7d7698211FC",
+      "name": "LeeQUIT",
+      "symbol": "LeeQUIT",
+      "decimals": 18,
+      "logoURI": "ipfs://QmVabqWW7UeJNLi2zD9sB2rdDqsswgR4m7Ln8mQQNdbFQe"
+       
     }
   ]
 }
